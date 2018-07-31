@@ -7,7 +7,7 @@ username=$USER
 deploy_type=$TYPE
 internal="internal.tar.gz"
 external="external.tar.gz"
-http_url="http://192.168.1.2:8088/download"
+http_url="http://xxx.xxx.x.x:8088/download"
 
 # 异常处理
 function trap_exit() {
